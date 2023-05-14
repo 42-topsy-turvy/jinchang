@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "istream": "cpp",
+        "locale": "cpp",
+        "streambuf": "cpp",
+        "ios": "cpp",
+        "queue": "cpp",
+        "initializer_list": "cpp",
+        "numeric": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp"
+    }
+}
